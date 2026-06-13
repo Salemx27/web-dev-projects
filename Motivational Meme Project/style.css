@@ -1,28 +1,22 @@
 body {
-        background-color: black;
-        color: white;
-        text-align: center;
-      }
+    background-color: black;
+}
 
-      div {
-        margin-top: 50px;
-      }
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
 
-      h1 {
-        text-transform: uppercase;
-        font-family: 'Libre Baskerville', serif;
-      }
+.container {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: white;
+}
 
-      .container {
-        width: 50%;
-        margin-left: 25%;
-      }
-
-      img {
-        border: 5px solid white;
-        width: 100%;
-      }
-
-      p {
-        font-size: 24px;
-      }
+.motivation-img {
+    border: 5px solid white;
+    width: 100%;
+}
